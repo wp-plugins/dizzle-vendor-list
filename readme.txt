@@ -17,11 +17,11 @@ Features include:
 * Include or hide drop down navigation
 * Include or hide link list navigation
 
-PS: You\'ll need to register at [Dizzle](http://app.dizzle.com/register) to create your vendor list.  It\'s a free to get a web widget with analytics.
+PS: You'll need to register at [Dizzle](http://app.dizzle.com/register) to create your vendor list.  It's a free to get a web widget with analytics.
 
 
 == Installation ==
-Upload the Dizzle Vendor List plugin to your blog and Activate it.  That\'s it!
+Upload the Dizzle Vendor List plugin to your blog and Activate it.  That's it!
 
 == Frequently Asked Questions ==
 Usage
@@ -38,7 +38,7 @@ To limt the list to a particular category, include the category attribute:
 
 [dizzle_vendor list="sandiego" category="Home Inspection"]
 
-To limt the list to a single vendor, include that vendor\'s id:
+To limt the list to a single vendor, include that vendor's id:
 
 [dizzle_vendor list="sandiego" vendor="w2GtMjxBsh"]
 
