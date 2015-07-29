@@ -1,10 +1,11 @@
 === Dizzle Vendor List ===
 Tags: Dizzle.com, dizzle, real estate, vendor, vendor list, business directory
 Requires at least: 3.2.0
+Stable tag: 1.0
 License: GNU v2
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 
-Displays your Dizzle vendor list inside the current post or page.
+Displays vendor list inside the current post or page.
 
 == Description ==
 The Dizzle Vendor List enables users to easily create, curate, and share your vendors on your WordPress site. Easily track analytics and update the vendor list from the Dizzle online and mobile dashboard application.
@@ -50,3 +51,9 @@ To limt the list to a single vendor, include that vendor's id:
 2. Wordpress Embedded Vendor List
 3. Dizzle Dashboard
 4. Dizzle Hosted Vendor List
+
+
+== Changelog ==
+
+= 1.0 =
+* First release
