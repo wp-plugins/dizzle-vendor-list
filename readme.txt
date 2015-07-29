@@ -1,5 +1,5 @@
 === Dizzle Vendor List ===
-Tags: Dizzle, Dizzle.com, Vendor, Real Estate
+Tags: Dizzle.com, dizzle, real estate, vendor, vendor list, business directory
 Requires at least: 3.2.0
 License: GNU v2
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
