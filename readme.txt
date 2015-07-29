@@ -1,5 +1,5 @@
 === Dizzle Vendor List ===
-Tags: Dizzle, Dizzle.com, Vendor, Real Estate
+Tags: Dizzle.com, dizzle, real estate, vendor, vendor list, business directory
 Requires at least: 3.2.0
 License: GNU v2
 License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -23,6 +23,12 @@ Features include:
 
 == Installation ==
 Upload the Dizzle Vendor List plugin to your blog and Activate it.  That's it!
+
+== Screenshots ==
+1. Dizzle Hosted Vendor List
+2. Wordpress Embedded Vendor List
+3. Dizzle Dashboard
+4. Dizzle Hosted Vendor List
 
 == Frequently Asked Questions ==
 Usage
