@@ -44,3 +44,9 @@ To limt the list to a single vendor, include that vendor's id:
 [dizzle_vendor list="sandiego" vendor="w2GtMjxBsh"]
 
 [dizzle_vendor list="sandiego" dropdown_nav="false" link_nav="false"]
+
+== Screenshots ==
+1. Dizzle Hosted Vendor List
+2. Wordpress Embedded Vendor List
+3. Dizzle Dashboard
+4. Dizzle Hosted Vendor List
