@@ -7,7 +7,11 @@ License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 Displays your Dizzle vendor list inside the current post or page.
 
 == Description ==
-Dizzle Vendor List displays your preferred vendors you create at Dizzle on your Wordpress site.
+The Dizzle Vendor List enables users to easily create, curate, and share your vendors on your WordPress site. Easily track analytics and update the vendor list from the Dizzle online and mobile dashboard application.
+
+View a demo of the plugin in action: [Dizzle Vendor List](http://justknock.com/vendor-directory/)
+
+To get started you will need to register at [Dizzle](https://app.dizzle.com/register) to create your free vendor list with analytics.
 
 Features include:
 
@@ -16,9 +20,6 @@ Features include:
 * Display a category of vendors
 * Include or hide drop down navigation
 * Include or hide link list navigation
-
-PS: You'll need to register at [Dizzle](http://app.dizzle.com/register) to create your vendor list.  It's a free to get a web widget with analytics.
-
 
 == Installation ==
 Upload the Dizzle Vendor List plugin to your blog and Activate it.  That's it!
